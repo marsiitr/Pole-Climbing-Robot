@@ -1,5 +1,3 @@
-//CODE for CLAMPING
-
 int dir1 =7;
 int pwm1 = 9;
 int velocity1=0;
@@ -12,7 +10,8 @@ int counter=0;
 int aState;
 int d;
 int enco1;
-int LastState;
+
+//int LastState;
 
 
 
@@ -24,7 +23,7 @@ void setup() {
   pinMode (pinB,INPUT);
   attachInterrupt(0, encoder1, CHANGE);
   Serial.begin(9600);
-  LastState =  digitalRead(pinA);
+  aState =  digitalRead(pinA);
   enco1 = 0.3*counter;
   d = 0.2*enco1/360;
 
