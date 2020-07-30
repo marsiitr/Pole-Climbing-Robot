@@ -12,10 +12,16 @@ Srishti 2020
 ![Workflow](https://github.com/DanielLarusso1/Pole-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Flowchart.JPG)
 
 ## Mechanical Aspect of the Design
-<p align="justify">The robot consists of a top plate is connected to the pinion and a clamp whereas the bottom plate is connected to the rack and the lower clamp. The clamp is 3d printed and is specifically designed for this purpose. It is padded with a soft gripping rubbery material. It's grip is loosened or tightened using the motion of a lead screw. The two plate system is stabilised by two rods which pass through the top plate through linear bearings and are connected to the bottom plate.</p>
+1. The robot consists of a top plate and a bottom plate, both connected to clamps on thier side to hold on to the pole.
+2. The clamp is 3d printed and is specifically designed for this purpose. It is padded with a soft gripping rubbery material. It's grip is loosened or tightened using the motion of a lead screw, which is fitted inside the 3d printed clamp jaw and connected below the plates with a circular ball bearing.
+3. The two plate system is stabilised by two rods which pass through the top plate through linear bearings and are connected to the bottom plate.
+4. The top plate is connected to the pinion and has linear bearings and a slot for accomodating the rods and the rack respectively, while the bottom plate is connected to the rack and the rods.
 
 ## Electronics Aspect of the Design
-<p align="justify">The micro-controller used is Arduino UNO and Cytron motor drivers. The pinion is rotated by a DC motor with an encoder. The lead screw of the clamp is rotated by a DC motor with an encoder. 12 V battery is used for powering the system</p>
+1. The micro-controller used is Arduino UNO and Cytron motor drivers.
+2. The pinion is rotated by a DC motor with an encoder.
+3. The lead screw of the clamp is rotated by a DC motor with an encoder.
+4.  12 V battery is used for powering the system
 
 ## Cost Structure 
 | Sr. No. | Product | Cost(In Rupees) | Quantity | Subtotal| 
