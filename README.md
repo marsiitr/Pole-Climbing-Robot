@@ -1,7 +1,7 @@
 # Pole-Climbing-Robot
 Srishti 2020
 
-![Final Product](https://github.com/DanielLarusso1/Pole-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Robot%20CAD.jpeg)
+![Final Product](https://github.com/DanielLarusso1/Pole-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Assembly.jpeg)
 ## Abstract
 <p align="justify">Pole climbing robot utilizes a rack and pinion system to perform vertical motion up and down a pole, with the caterpillar motion of the top plate and bottom plate. The robot can climb up the poles within a certain range of diameters.</p>
 
@@ -9,7 +9,7 @@ Srishti 2020
 <p align="justify">Electricians and workmen have to climbup an electric pole in case of a malfunction, this leads to several accidents. This can be avoided if a robot can be made to climb the pole and perform specialised functions. As a first step towards that, this robot has been designed to climb a pole. It can also be used for surveillance and fruit harvesting.</p>
 
 ## Workflow
-![Workflow](https://github.com/DanielLarusso1/Pole-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Workflow.JPG)
+![Workflow](https://github.com/DanielLarusso1/Pole-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Flowchart.JPG)
 
 ## Mechanical Aspect of the Design
 <p align="justify">The robot consists of a top plate is connected to the pinion and a clamp whereas the bottom plate is connected to the rack and the lower clamp. The clamp is 3d printed and is specifically designed for this purpose. It is padded with a soft gripping rubbery material. It's grip is loosened or tightened using the motion of a lead screw. The two plate system is stabilised by two rods which pass through the top plate through linear bearings and are connected to the bottom plate.</p>
