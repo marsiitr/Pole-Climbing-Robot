@@ -62,6 +62,6 @@ Srishti 2020
  2. [Rishika Chandra](https://github.com/chandrarishika14)
 
 ## References
- 1. Rack and Pinion mechanism: https://www.britannica.com/technology/rack-and-pinion
- 2. Lead screw clamps: https://in.misumi-ec.com/vona2/mech
- 3. Pole Climbing basics: http://engineering.nyu.edu/mechatronics/projects/ME7836/spring2017/Arduino/4mini1/report.pdf
+ 1. [Rack and Pinion mechanism]( https://www.britannica.com/technology/rack-and-pinion)
+ 2. [Lead screw clamps](https://in.misumi-ec.com/vona2/mech)
+ 3. [Pole Climbing basics]( http://engineering.nyu.edu/mechatronics/projects/ME7836/spring2017/Arduino/4mini1/report.pdf)
